@@ -9,4 +9,4 @@ spec:
       - name: argocd-repo-server
         env:
         - name: ARGOCD_EXEC_TIMEOUT
-          value: "300s"
+          value: "600s"
